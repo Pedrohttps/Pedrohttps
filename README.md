@@ -10,8 +10,6 @@
 
 <h2 align="left"><Sobre/></h2>
 
-###
-
 <p align="left">• 👨🏻‍💻┇Estudante de Engenharia Software</p>
 
 ###
