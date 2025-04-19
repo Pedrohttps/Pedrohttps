@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BE48F7&width=435&lines=Olá,+devs!+>+Pedro+H.+Xavier+aqui!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=D537F7&background=44336600&multiline=true&width=435&lines=Hello%2C+developers!+%3E+Pedro+H.+Xavier;Sejam+bem+vindos!)](https://git.io/typing-svg)
 
 <h1 align="left">Biografia!</h1>
 
