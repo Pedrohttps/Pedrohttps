@@ -4,10 +4,6 @@
 
 ###
 
-<p align="left">Apreciador de tecnologias!</p>
-
-###
-
 <h2 align="left"><Sobre/></h2>
 
 ###
