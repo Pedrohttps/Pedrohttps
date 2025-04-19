@@ -1,12 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=D537F7&background=44336600&multiline=true&width=435&lines=Hello%2C+developers!+%3E+Pedro+H.+Xavier;Sejam+bem+vindos!)](https://git.io/typing-svg)
 
-<h1 align="left">Biografia!</h1>
+<h1 align="left"></h1>
 
 ###
 
-<p align="left">Sou um mero apreciador de tecnologias!</p>
+<p align="left">Mero apreciador de tecnologias!</p>
 
 ###
+
+<br clear="both">
 
 <h2 align="left"><Sobre/></h2>
 
@@ -15,6 +17,8 @@
 <p align="left">• 👨🏻‍💻┇Estudante de Engenharia Software</p>
 
 ###
+
+<br clear="both">
 
 <h2 align="left"><Linguagens/></h2>
 
@@ -33,4 +37,3 @@
 </div>
 
 ###
-
