@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=BC22F7&width=435&lines=Hello%2C+developers!+%3E+Pedro+H.+Xavier;Bem+vindos!)](https://git.io/typing-svg)
+
 <p align="left">• 👨🏻‍💻┇Estudante de Engenharia Software</p>
 
 ###
