@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D537F7&background=44336600&width=435&lines=Hello%2C+developers!+%3E+Pedro+H.+Xavier)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BE48F7&width=435&lines=Bem+vindos!+Me+chamo+Pedro+Henrique+Xavier!)](https://git.io/typing-svg)
 
 <h1 align="left">Olá, developers!</h1>
 
